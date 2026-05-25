@@ -15,6 +15,9 @@
 ;  {:para (subs arg 7)}
 ; :else {}))
 
+(def chave "17718241908c7cde8bd88c7a3beb35d8d80e75a011fc5d73222ff408d952c454")
+
+
 (def opcoes-do-programa
 [["-d" "--de moeda base" "moeda base para conversão"
 :default "eur"]
